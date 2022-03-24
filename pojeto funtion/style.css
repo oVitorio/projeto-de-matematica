@@ -1,0 +1,26 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+    background-color:#74b9c7;
+}
+
+#divcenter {
+    margin-top: 1px;
+    margin-bottom: 30%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(0, 0, 0);
+    border: 5px;
+    box-shadow: 10px 5px 5px rgba(95, 95, 95, 0.507);
+    border-radius: 10px 40px 40px 10px;
+    border-style: solid;
+}
+
+label{
+    margin-left: 15px;
+  
+ 
+}
